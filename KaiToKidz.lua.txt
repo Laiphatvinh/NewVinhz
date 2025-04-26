@@ -1,7 +1,7 @@
 -- discord.gg/2eSnBJwx
 
 
-shared.LoaderTitle = "discord.gg/2eSnBJwx";
+shared.LoaderTitle = "New-VinhzHub";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
